@@ -1,3 +1,5 @@
+![Alt text](https://github.com/Gitzak/my_first_app_flutter_3/blob/main/Screenshot.png)
+
 # my_first_app
 
 A new Flutter project.
